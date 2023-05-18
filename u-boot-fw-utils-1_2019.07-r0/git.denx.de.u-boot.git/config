@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = git://git.denx.de/u-boot.git
+	fetch = +refs/*:refs/*
